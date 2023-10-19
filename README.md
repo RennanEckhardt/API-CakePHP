@@ -1,53 +1,71 @@
-# CakePHP Application Skeleton
+# Introdução ao Projeto CakePHP
 
-![Build Status](https://github.com/cakephp/app/actions/workflows/ci.yml/badge.svg?branch=master)
-[![Total Downloads](https://img.shields.io/packagist/dt/cakephp/app.svg?style=flat-square)](https://packagist.org/packages/cakephp/app)
-[![PHPStan](https://img.shields.io/badge/PHPStan-level%207-brightgreen.svg?style=flat-square)](https://github.com/phpstan/phpstan)
+ API desenvolvida no CakePHP/Postman é uma api que  gerenciar informações de lojas e seus endereços associados. 
 
-A skeleton for creating applications with [CakePHP](https://cakephp.org) 5.x.
+ Esta documentação fornecerá detalhes sobre os controllers, rotas, migrações e outros aspectos relevantes do projeto.
+ https://drive.google.com/file/d/1MrJoynXFX5HuZaIMZMqlWv7KUi-8xljO/view?usp=share_link
+ 
 
-The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
+## Inicialização do Projeto
 
-## Installation
+1. **Configure o banco de dados:**
+   Certifique-se de ter configurado o banco no arquivo 'app_local.php'
 
-1. Download [Composer](https://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
-2. Run `php composer.phar create-project --prefer-dist cakephp/app [app_name]`.
+2. **Inicie servidor:**
+   No terminal, navegue até o diretório raiz da pasta e rode o seguinte comando:
 
-If Composer is installed globally, run
+   ```bash
+   cake server
+   ```
+   ## Usando a API
+    Buscar as lojas cadastradas na tabela stores
+    ```bash
+    GET http://localhost:8765/stores
+   ```
+    Adiciona uma nova loja.
+    ```bash
+    POST http://localhost:8765/stores/add
+    Parâmetros Exemplo:
+    {
+    "name": "joaoloja",
+    }
 
-```bash
-composer create-project --prefer-dist cakephp/app
-```
+   ```
+    Edita o nome de uma loja.
+    ```bash
+    POST /http://localhost:8765/stores/edit
+    Parâmetros Exemplo:
+    {
+    "name": "joaoloja",
+    "id": 1
+    }
 
-In case you want to use a custom app dir name (e.g. `/myapp/`):
 
-```bash
-composer create-project --prefer-dist cakephp/app myapp
-```
+   ```
+    
+    Deleta uma loja e seus dados, incluindo os da tabela ”address.”
+   ```bash
+     POST http://localhost:8765/stores/delete
+       Parâmetros Exemplo:
+    {
+    "id": 24
+    }
 
-You can now either use your machine's webserver to view the default home page, or start
-up the built-in webserver with:
 
-```bash
-bin/cake server -p 8765
-```
+   ```
+    Busca todos os dados da tabela ”addresses.”
+   ```bash
+   GET http://localhost:8765/Addresses/view
+   ```
+   Adiciona ou edita os dados da tabela ”addresses.” *Lembrando que so e possivel adicionar um endereço a uma loja ja existente.
+   ```bash
+   POST /http://localhost:8765/Addresses/add
+   {
+    "foreign_id": 24,
+    "postal_code": "32140670",
+    "street_number": "123",
+    "complement": "casa amarela",
+    "foreign_table": "Stores"
+    }
 
-Then visit `http://localhost:8765` to see the welcome page.
-
-## Update
-
-Since this skeleton is a starting point for your application and various files
-would have been modified as per your needs, there isn't a way to provide
-automated upgrades, so you have to do any updates manually.
-
-## Configuration
-
-Read and edit the environment specific `config/app_local.php` and set up the
-`'Datasources'` and any other configuration relevant for your application.
-Other environment agnostic settings can be changed in `config/app.php`.
-
-## Layout
-
-The app skeleton uses [Milligram](https://milligram.io/) (v1.3) minimalist CSS
-framework by default. You can, however, replace it with any other library or
-custom styles.
+   ```
