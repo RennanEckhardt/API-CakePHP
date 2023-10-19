@@ -1,0 +1,557 @@
+2023-10-18 16:34:09 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:34:09 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:34:16 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:34:16 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:34:19 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:34:19 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:34:29 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores/add
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:34:29 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores/add
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:35:02 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores/add
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:35:02 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores/add
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:35:15 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:35:15 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:38:54 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:38:54 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:39:50 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:39:50 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:42:21 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:42:21 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:42:28 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores/add
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:42:28 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores/add
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:44:24 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 150
+Cake\Error\Middleware\ErrorHandlerMiddleware->handleException() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 119
+Cake\Error\Middleware\ErrorHandlerMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+DebugKit\Middleware\DebugKitMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Runner->run() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Server.php, line 103
+Cake\Http\Server->run() C:\workspace\cake\cakeapi\webroot\index.php, line 37
+[main]
+
+2023-10-18 16:44:24 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 150
+Cake\Error\Middleware\ErrorHandlerMiddleware->handleException() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 119
+Cake\Error\Middleware\ErrorHandlerMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+DebugKit\Middleware\DebugKitMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Runner->run() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Server.php, line 103
+Cake\Http\Server->run() C:\workspace\cake\cakeapi\webroot\index.php, line 37
+[main]
+
+2023-10-18 16:50:07 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores/add
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 16:50:07 notice: str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated
+Request URL: /stores/add
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\templates\Error\missing_controller.php, line 25
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1188
+Cake\View\View->_evaluate() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 1145
+Cake\View\View->_render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\View\View.php, line 785
+Cake\View\View->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 705
+Cake\Controller\Controller->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 412
+Cake\Error\Renderer\WebExceptionRenderer->_outputMessage() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Renderer\WebExceptionRenderer.php, line 283
+Cake\Error\Renderer\WebExceptionRenderer->render() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\ExceptionTrap.php, line 236
+Cake\Error\ExceptionTrap->handleException() [internal], line ??
+[main]
+
+2023-10-18 17:14:27 notice: Undefined property `StoresController::$Storesr` in `C:\workspace\cake\cakeapi\src\Controller\StoresController.php` on line 22
+Request URL: /stores/add
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 311
+Cake\Controller\Controller->__get() C:\workspace\cake\cakeapi\src\Controller\StoresController.php, line 22
+App\Controller\StoresController->add() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 498
+Cake\Controller\Controller->invokeAction() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Controller\ControllerFactory->invoke() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 332
+Cake\Http\BaseApplication->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 134
+Cake\Http\Middleware\CsrfProtectionMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 172
+Cake\Http\Middleware\BodyParserMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 118
+Cake\Routing\Middleware\RoutingMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 69
+Cake\Routing\Middleware\AssetMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 115
+Cake\Error\Middleware\ErrorHandlerMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+DebugKit\Middleware\DebugKitMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Runner->run() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Server.php, line 103
+Cake\Http\Server->run() C:\workspace\cake\cakeapi\webroot\index.php, line 37
+[main]
+
+2023-10-18 19:40:10 notice: Undefined property `StoresController::$Addresses` in `C:\workspace\cake\cakeapi\src\Controller\StoresController.php` on line 49
+Request URL: /stores/add
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 311
+Cake\Controller\Controller->__get() C:\workspace\cake\cakeapi\src\Controller\StoresController.php, line 49
+App\Controller\StoresController->add() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 498
+Cake\Controller\Controller->invokeAction() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Controller\ControllerFactory->invoke() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 332
+Cake\Http\BaseApplication->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 134
+Cake\Http\Middleware\CsrfProtectionMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 172
+Cake\Http\Middleware\BodyParserMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 118
+Cake\Routing\Middleware\RoutingMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 69
+Cake\Routing\Middleware\AssetMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 115
+Cake\Error\Middleware\ErrorHandlerMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+DebugKit\Middleware\DebugKitMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Runner->run() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Server.php, line 103
+Cake\Http\Server->run() C:\workspace\cake\cakeapi\webroot\index.php, line 37
+[main]
+
+2023-10-19 02:17:36 notice: Undefined property `StoresController::$Addresses` in `C:\workspace\cake\cakeapi\src\Controller\StoresController.php` on line 55
+Request URL: /stores/add
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 311
+Cake\Controller\Controller->__get() C:\workspace\cake\cakeapi\src\Controller\StoresController.php, line 55
+App\Controller\StoresController->add() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 498
+Cake\Controller\Controller->invokeAction() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Controller\ControllerFactory->invoke() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 332
+Cake\Http\BaseApplication->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 134
+Cake\Http\Middleware\CsrfProtectionMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 172
+Cake\Http\Middleware\BodyParserMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 118
+Cake\Routing\Middleware\RoutingMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 69
+Cake\Routing\Middleware\AssetMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 115
+Cake\Error\Middleware\ErrorHandlerMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+DebugKit\Middleware\DebugKitMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Runner->run() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Server.php, line 103
+Cake\Http\Server->run() C:\workspace\cake\cakeapi\webroot\index.php, line 37
+[main]
+
+2023-10-19 02:33:00 notice: Since 5.0.0: Calling `findAll` finder with options array is deprecated. Use named arguments instead.
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line: 2642
+You can disable all deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED`. Adding `vendor/cakephp/cakephp/src/ORM/Table.php` to `Error.ignoredDeprecationPaths` in your `config/app.php` config will mute deprecations from that file only.
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Core\functions.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Core\functions.php, line 325
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line 2700
+Cake\ORM\Table->invokeFinder() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line 2642
+Cake\ORM\Table->callFinder() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line 1293
+Cake\ORM\Table->find() C:\workspace\cake\cakeapi\src\Controller\StoresController.php, line 78
+App\Controller\StoresController->index() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 498
+Cake\Controller\Controller->invokeAction() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Controller\ControllerFactory->invoke() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 332
+Cake\Http\BaseApplication->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 169
+Cake\Http\Middleware\CsrfProtectionMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Middleware\BodyParserMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 118
+Cake\Routing\Middleware\RoutingMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 69
+Cake\Routing\Middleware\AssetMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 115
+Cake\Error\Middleware\ErrorHandlerMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+DebugKit\Middleware\DebugKitMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Runner->run() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Server.php, line 103
+Cake\Http\Server->run() C:\workspace\cake\cakeapi\webroot\index.php, line 37
+[main]
+
+2023-10-19 02:34:01 notice: Since 5.0.0: Calling `findAll` finder with options array is deprecated. Use named arguments instead.
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line: 2642
+You can disable all deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED`. Adding `vendor/cakephp/cakephp/src/ORM/Table.php` to `Error.ignoredDeprecationPaths` in your `config/app.php` config will mute deprecations from that file only.
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Core\functions.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Core\functions.php, line 325
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line 2700
+Cake\ORM\Table->invokeFinder() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line 2642
+Cake\ORM\Table->callFinder() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line 1293
+Cake\ORM\Table->find() C:\workspace\cake\cakeapi\src\Controller\StoresController.php, line 78
+App\Controller\StoresController->index() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 498
+Cake\Controller\Controller->invokeAction() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Controller\ControllerFactory->invoke() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 332
+Cake\Http\BaseApplication->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 169
+Cake\Http\Middleware\CsrfProtectionMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Middleware\BodyParserMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 118
+Cake\Routing\Middleware\RoutingMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 69
+Cake\Routing\Middleware\AssetMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 115
+Cake\Error\Middleware\ErrorHandlerMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+DebugKit\Middleware\DebugKitMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Runner->run() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Server.php, line 103
+Cake\Http\Server->run() C:\workspace\cake\cakeapi\webroot\index.php, line 37
+[main]
+
+2023-10-19 02:34:05 notice: Since 5.0.0: Calling `findAll` finder with options array is deprecated. Use named arguments instead.
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line: 2642
+You can disable all deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED`. Adding `vendor/cakephp/cakephp/src/ORM/Table.php` to `Error.ignoredDeprecationPaths` in your `config/app.php` config will mute deprecations from that file only.
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Core\functions.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Core\functions.php, line 325
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line 2700
+Cake\ORM\Table->invokeFinder() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line 2642
+Cake\ORM\Table->callFinder() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line 1293
+Cake\ORM\Table->find() C:\workspace\cake\cakeapi\src\Controller\StoresController.php, line 78
+App\Controller\StoresController->index() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 498
+Cake\Controller\Controller->invokeAction() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Controller\ControllerFactory->invoke() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 332
+Cake\Http\BaseApplication->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 169
+Cake\Http\Middleware\CsrfProtectionMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Middleware\BodyParserMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 118
+Cake\Routing\Middleware\RoutingMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 69
+Cake\Routing\Middleware\AssetMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 115
+Cake\Error\Middleware\ErrorHandlerMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+DebugKit\Middleware\DebugKitMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Runner->run() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Server.php, line 103
+Cake\Http\Server->run() C:\workspace\cake\cakeapi\webroot\index.php, line 37
+[main]
+
+2023-10-19 02:35:31 notice: Since 5.0.0: Calling `findAll` finder with options array is deprecated. Use named arguments instead.
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line: 2642
+You can disable all deprecation warnings by setting `Error.errorLevel` to `E_ALL & ~E_USER_DEPRECATED`. Adding `vendor/cakephp/cakephp/src/ORM/Table.php` to `Error.ignoredDeprecationPaths` in your `config/app.php` config will mute deprecations from that file only.
+Request URL: /stores
+Trace:
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Core\functions.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Core\functions.php, line 325
+C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line 2700
+Cake\ORM\Table->invokeFinder() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line 2642
+Cake\ORM\Table->callFinder() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php, line 1293
+Cake\ORM\Table->find() C:\workspace\cake\cakeapi\src\Controller\StoresController.php, line 78
+App\Controller\StoresController->index() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\Controller.php, line 498
+Cake\Controller\Controller->invokeAction() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php, line 114
+Cake\Controller\ControllerFactory->invoke() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 332
+Cake\Http\BaseApplication->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 86
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php, line 169
+Cake\Http\Middleware\CsrfProtectionMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php, line 157
+Cake\Http\Middleware\BodyParserMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php, line 118
+Cake\Routing\Middleware\RoutingMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php, line 69
+Cake\Routing\Middleware\AssetMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php, line 115
+Cake\Error\Middleware\ErrorHandlerMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 60
+DebugKit\Middleware\DebugKitMiddleware->process() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 82
+Cake\Http\Runner->handle() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Runner.php, line 67
+Cake\Http\Runner->run() C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Http\Server.php, line 103
+Cake\Http\Server->run() C:\workspace\cake\cakeapi\webroot\index.php, line 37
+[main]
+

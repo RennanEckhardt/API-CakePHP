@@ -1,0 +1,31 @@
+2023-10-18 03:51:08 error: [Cake\Database\Exception\DatabaseException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mundo_wap.blabla' doesn't exist in C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Database\Schema\Collection.php on line 158
+Stack Trace:
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:116
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php:543
+- C:\workspace\cake\cakeapi\vendor\cakephp\bake\src\Command\ModelCommand.php:112
+- C:\workspace\cake\cakeapi\vendor\cakephp\bake\src\Command\ModelCommand.php:95
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Console\BaseCommand.php:192
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Console\CommandRunner.php:327
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Console\CommandRunner.php:168
+- C:\workspace\cake\cakeapi\bin\cake.php:10
+- [main]:
+
+Caused by: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'mundo_wap.blabla' doesn't exist in C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Database\Statement\Statement.php on line 159
+Stack Trace:
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Database\Statement\Statement.php:159
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Database\Driver.php:313
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Database\Driver.php:282
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Database\Connection.php:251
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:71
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Database\Connection.php:251
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:156
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:116
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\ORM\Table.php:543
+- C:\workspace\cake\cakeapi\vendor\cakephp\bake\src\Command\ModelCommand.php:112
+- C:\workspace\cake\cakeapi\vendor\cakephp\bake\src\Command\ModelCommand.php:95
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Console\BaseCommand.php:192
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Console\CommandRunner.php:327
+- C:\workspace\cake\cakeapi\vendor\cakephp\cakephp\src\Console\CommandRunner.php:168
+- C:\workspace\cake\cakeapi\bin\cake.php:10
+- [main]:
+
